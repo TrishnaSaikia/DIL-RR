@@ -26,7 +26,7 @@ Please note that this dataset could be used for research purposes only, and any 
 To support benchmarking on DIL-RR, we provide the baseline method **PulseGuide-RR**, proposed in our FG 2026 paper. PulseGuide-RR is a contactless respiration rate estimation framework that learns from facial video while being guided by synchronized contact PPG signals during training. The goal is to improve rPPG-based respiration estimation by transferring rich respiration-related knowledge from PPG to rPPG.
 
 <p align="center">
-  <img src="figures/pulseguide_rr_workflow.png" alt="PulseGuide-RR workflow" width="900"/>
+  <img src="figures/RR-FG-work-flow.png" alt="PulseGuide-RR workflow" width="900"/>
 </p>
 
 ### Overview
